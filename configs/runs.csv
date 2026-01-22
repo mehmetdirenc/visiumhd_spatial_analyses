@@ -1,0 +1,3 @@
+run_id,sample_id,condition,spaceranger_dir,bin_um
+06218_Sample_25032a005_01,06218_Sample_25032a005_01_24,control,/mnt/storage1/projects/research/25032_1505_VisiumHD_Gastroschisis/analysis/06218_Sample_25032a005_01_custom_bin24,24
+06218_Sample_25032a005_01,06218_Sample_25032a005_01_16,case,/mnt/storage1/projects/research/25032_1505_VisiumHD_Gastroschisis/analysis/06218_Sample_25032a005_01,16
